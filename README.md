@@ -100,6 +100,7 @@ Star History Chart
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=AgaMiko/data-augmentation-review&type=date&legend=bottom-right" />
  </picture>
 </a>
+
 Repositories
 Computer vision
 - albumentations  is a Python library with a set of useful, large, and diverse data augmentation methods. It offers over 30 different types of augmentations, easy and ready to use. Moreover, as the authors prove, the library is faster than other libraries on most of the transformations.
