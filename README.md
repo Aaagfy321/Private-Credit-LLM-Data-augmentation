@@ -306,38 +306,38 @@ Micro-level evidence of private credit ecosystem dynamics.
 # 🏛 BIS Regulatory Context Research
 
 Institution: Bank for International Settlements
-Methodology:
-Policy evaluation
-Regulatory capital analysis
-Banking system stress modelling
-Core Questions:
-Has Basel III indirectly accelerated private credit growth?
-Does regulatory arbitrage increase systemic opacity?
-How should non-bank lenders be supervised?
-Contribution:
-Frames private credit within global prudential policy debates.
-Policy Themes Across Research
-Bank capital requirements
-Risk-weighted asset optimisation
-Liquidity coverage ratios
-Supervisory perimeter gaps
+## Methodology:
+## Policy evaluation
+## Regulatory capital analysis
+## Banking system stress modelling
+## Core Questions:
+#### Has Basel III indirectly accelerated private credit growth?
+#### Does regulatory arbitrage increase systemic opacity?
+#### How should non-bank lenders be supervised?
+## Contribution:
+## Frames private credit within global prudential policy debates.
+## Policy Themes Across Research
+## Bank capital requirements
+## Risk-weighted asset optimisation
+## Liquidity coverage ratios
+## Supervisory perimeter gaps
 
 # 4️⃣ CASE-BASED & INDUSTRY ANALYSIS
 (Practitioner-driven, event-based, crisis-focused research)
 
 # 📊 Private Credit Through the Pandemic and Beyond
 Organization: Alternative Investment Management Association
-Methodology:
-Industry surveys
-Performance tracking
-Default expectation analysis
-Crisis case studies
-Core Findings:
-Initial default fears did not materialise at systemic levels
-Liquidity support mitigated stress
-Fund structures showed flexibility
-Contribution:
-Real-world stress test evidence of private credit resilience.
+## Methodology:
+## Industry surveys
+## Performance tracking
+## Default expectation analysis
+## Crisis case studies
+## Core Findings:
+## Initial default fears did not materialise at systemic levels
+## Liquidity support mitigated stress
+## Fund structures showed flexibility
+## Contribution:
+## Real-world stress test evidence of private credit resilience.
 
 # 5️⃣ CROSS-METHODOLOGICAL THEMES
 Across macro, empirical, regulatory, and case-based studies:
