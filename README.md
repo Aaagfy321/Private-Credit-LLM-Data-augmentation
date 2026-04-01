@@ -4,27 +4,30 @@ List of useful data augmentation resources. You will find here some links to mor
 
 Do you like it? Feel free to ⭐ ! Feel free to make a pull request!
 
-Introduction
-Repositories
-Computer vision
-Natural Language Processing
-Audio/Speech
-Time series
-Graph Augmentation
-Gene expression Augmentation
-AutoAugment
-Papers
-2023
-2022
-2021
-2020
-2019
-2018
-2017
-2015
-AutoAugment
+# Introduction
+## Repositories
+## Computer vision
+## Natural Language Processing
+## Audio/Speech
+## Time series
+## Graph Augmentation
+## Gene expression Augmentation
+## AutoAugment
+
+#Papers
+## 2023
+## 2022
+## 2021
+## 2020
+## 2019
+## 2018
+## 2017
+## 2015
+
+# AutoAugment
 Other - challenges, workshops, tutorials, books
-Introduction
+
+# Introduction
 Data augmentation can be simply described as any method that makes our dataset larger by making modified copies of the existing dataset. To create more images for example, we could zoom in and save the result, we could change the brightness of the image or rotate it. To get a bigger sound dataset we could try to raise or lower the pitch of the audio sample or slow down/speed up. Example data augmentation techniques are presented in the diagram below.
 
 data augmentation diagram
@@ -86,8 +89,8 @@ Mixing observations
 Random variable insertion
 Automatic Augmentation (AutoAugment)
 Other
-Keypoints/landmarks Augmentation - usually done with image augmentation (rotation, reflection) or graph augmentation methods (node/edge dropping)
-Spectrograms/Melspectrograms - usually done with time series data augmentation (jittering, perturbing, warping) or image augmentation (random erasing)
+#Keypoints/landmarks Augmentation - usually done with image augmentation (rotation, reflection) or graph augmentation methods (node/edge dropping)
+#Spectrograms/Melspectrograms - usually done with time series data augmentation (jittering, perturbing, warping) or image augmentation (random erasing)
 If you wish to cite us, you can cite the following paper of your choice: Style transfer-based image synthesis as an efficient regularization technique in deep learning or Data augmentation for improving deep learning in image classification problem.
 
 Star History Chart
@@ -129,7 +132,7 @@ Organised by research methodology, with the latest 2026 insights included.
 📙 Private Credit Markets Theory, Evidence, and Emerging Frontiers (2026)
 Authors: Jiacheng Zou (working paper)
 Source: arXiv
-Methodology:
+# Methodology:
 Integrated theoretical framework linking private credit growth to delegated monitoring and incomplete contracting
 Empirical synthesis of market evidence up to 2024
 Key Insights:
@@ -139,7 +142,7 @@ Investors earn spread premia, but high fees can consume returns
 Raises questions about systemic risk and data opacity (arXiv)
 📄 Global private credit fundraising increased in 2025 (2026)
 Source: S&P Global Market Intelligence
-Methodology:
+# Methodology:
 Market data analysis of fundraising flows
 Asset allocation segmentation
 Geographic fundraising patterns
@@ -150,11 +153,11 @@ Europe saw record private credit fund closes
 Asia-Pacific remained smaller by comparison (S&P Global)
 📄 All Eyes on Europe as Cracks Emerge in Private Credit (2026)
 Source: S&P Global (With Intelligence)
-Methodology:
+# Methodology:
 Market trend analysis
 Default signal and fundraising data
 Risk signal interpretation
-Findings:
+# Findings:
 Evidence of late-cycle stress and default upticks
 Record European fundraising with slower North America growth
 Rise of opportunistic and distressed debt strategies (S&P Global)
@@ -164,11 +167,11 @@ Rise of opportunistic and distressed debt strategies (S&P Global)
 
 KBRA – Private Credit: Lessons from 2025’s At-Risk Cohort (Feb 2026)
 Institution: Kroll Bond Rating Agency
-Methodology:
+# Methodology:
 Tracking borrower cohorts identified as elevated risk
 Credit quality deterioration measurements
 Liquidity and restructuring outcomes
-Findings:
+# Findings:
 71% of initially at-risk loans deteriorated further
 Significant liquidity strain requiring sponsor support
 ~25 out of 79 borrowers defaulted or restructured (KBRA)
@@ -177,40 +180,40 @@ Significant liquidity strain requiring sponsor support
 (Policy impact and financial stability examination)
 While no pure regulatory research paper for 2026 has been released, ongoing commentary from central banks and regulators (e.g., Bank of England warnings about risks to credit markets and financial stability) suggests increasing concern about private credit’s systemwide implications in the current environment. (Reuters)
 
-4️⃣ INDUSTRY & PRACTITIONER ANALYSIS (Outlooks & Market Perspectives)
+# 4️⃣ INDUSTRY & PRACTITIONER ANALYSIS (Outlooks & Market Perspectives)
 These pieces combine forward-looking industry expectation with empirical observations:
 
-📊 Private Credit Outlook: A Maturing Market Enters Its Next Phase (Bernstein) (Jan 2026)
+# 📊 Private Credit Outlook: A Maturing Market Enters Its Next Phase (Bernstein) (Jan 2026)
 Institution: Bernstein Research
 Methodology: Sector outlook, trend analysis
-Themes:
+# Themes:
 Solutions-oriented alpha replacing simple spread capture
 Performance dispersion based on origination and structuring depth
 Greater transparency demand as the sector matures (Bernstein)
 
-📈 Private Credit 2026 Outlook – Morgan Stanley (Dec 2025 / into 2026)
+# 📈 Private Credit 2026 Outlook – Morgan Stanley (Dec 2025 / into 2026)
 Institution: Morgan Stanley
-Methodology: Market insight + trend extrapolation
+# Methodology: Market insight + trend extrapolation
 Themes:
 Private credit remains attractive in shallow rate-cut environment
 Scale, selectivity, and structural innovation key to performance
 Direct lending yields still historically high despite spread compression (Morgan Stanley)
 
-📉 Private credit: Attractive risk-adjusted return potential (Invesco, March 2026)
+# 📉 Private credit: Attractive risk-adjusted return potential (Invesco, March 2026)
 Institution: Invesco
-Methodology: Investment risk-return analysis
+# Methodology: Investment risk-return analysis
 Insights:
 Continued strong returns in senior secured and direct lending
 Growth potential in special situations credit for 2026 (Invesco)
 
-📊 Credit Conditions: Q1 2026 – Private Credit & Debt Markets (McDermott Will & Emery)
+# 📊 Credit Conditions: Q1 2026 – Private Credit & Debt Markets (McDermott Will & Emery)
 Methodology: Quarterly credit trend review
 Insights:
 Accelerating deal activity
 Competitive interaction with syndicated loan markets
 Variable macro influences shaping credit terms (McDermott)
 
-📌 2026 Research Themes Emerging
+# 📌 2026 Research Themes Emerging
 Across these 2026 sources, consistent empirical and industry signals include:
 Maturation of private credit markets with diversified structures and extended investor access (Bernstein)
 Default and credit quality concerns among mid-market borrowers (KBRA)
@@ -221,11 +224,10 @@ Pressure on liquidity and redemption conditions in some private credit vehicles 
 📄 FSL-BDP: Federated Survival Learning with Bayesian Differential Privacy for Credit Risk Modeling (Jan 2026)
 Although not private credit specific, this study addresses credit risk modeling methodologies that could be adapted for private credit portfolio analytics. (arXiv)
 
-📌 What This Means for Your Literature Review
+# 📌 What This Means for Your Literature Review
 By organising 2026 research by methodology:
 
-
-Methodology
+ Methodology
 Key 2026 Sources
 Macro-financial
 Zou (2026), S&P Global reports
@@ -239,38 +241,38 @@ Credit risk modeling
 FSL-BDP (2026)
 
 ========================================================================================================================================================================================
-📘 Private Credit Research Repository
+# 📘 Private Credit Research Repository
 Organised by Research Methodology
 
-1️⃣ MACRO-FINANCIAL RESEARCH
+# 1️⃣ MACRO-FINANCIAL RESEARCH
 (System-wide drivers, monetary transmission, financial stability)
 
-🏛 The Global Drivers of Private Credit
+# 🏛 The Global Drivers of Private Credit
 
 Institution: Bank for International Settlements
 Date: 11 March 2025
-Methodology:
+# Methodology:
 Cross-country panel data
 Macro-financial regression analysis
 Policy rate sensitivity testing
 Financial institutions index modelling
-Core Findings:
+# Core Findings:
 Direct lending expands when policy rates are lower
 Bank balance sheet constraints drive substitution toward private credit
 Growth of non-bank financial intermediation is structurally persistent
 Contribution:
 Positions private credit within global monetary transmission mechanisms.
 
-🔎 Related Macro Themes
+#  Related Macro Themes
 Interest rate cycles and loan origination
 Capital regulation spillovers
 Non-bank systemic exposure
 Cross-border credit flows
 
-2️⃣ EMPIRICAL MARKET STRUCTURE RESEARCH
+# 2️⃣ EMPIRICAL MARKET STRUCTURE RESEARCH
 (Data-driven analysis of market size, segmentation, and borrower behavior)
 
-🎓 An Analysis of the Recent Rise of Private Credit in Capital Markets
+# 🎓 An Analysis of the Recent Rise of Private Credit in Capital Markets
 Published in: Journal of Student Research
 Date: 31 August 2024
 Methodology:
@@ -285,7 +287,7 @@ Increasing role in mid-market financing
 Contribution:
 Empirical confirmation of structural capital market shift.
 
-📊 UK Private Debt Research Report 2020
+# 📊 UK Private Debt Research Report 2020
 Institution: British Business Bank
 Methodology:
 Primary survey data collection
@@ -298,10 +300,10 @@ Concentration among direct lenders
 Contribution:
 Micro-level evidence of private credit ecosystem dynamics.
 
-3️⃣ REGULATORY & POLICY ANALYSIS
+# 3️⃣ REGULATORY & POLICY ANALYSIS
 (Impact of regulation on private credit growth and systemic risk)
 
-🏛 BIS Regulatory Context Research
+# 🏛 BIS Regulatory Context Research
 
 Institution: Bank for International Settlements
 Methodology:
@@ -320,10 +322,10 @@ Risk-weighted asset optimisation
 Liquidity coverage ratios
 Supervisory perimeter gaps
 
-4️⃣ CASE-BASED & INDUSTRY ANALYSIS
+# 4️⃣ CASE-BASED & INDUSTRY ANALYSIS
 (Practitioner-driven, event-based, crisis-focused research)
 
-📊 Private Credit Through the Pandemic and Beyond
+# 📊 Private Credit Through the Pandemic and Beyond
 Organization: Alternative Investment Management Association
 Methodology:
 Industry surveys
@@ -337,11 +339,10 @@ Fund structures showed flexibility
 Contribution:
 Real-world stress test evidence of private credit resilience.
 
-5️⃣ CROSS-METHODOLOGICAL THEMES
+# 5️⃣ CROSS-METHODOLOGICAL THEMES
 Across macro, empirical, regulatory, and case-based studies:
 
-
-Research Dimension
+ Research Dimension
 Evidence Found
 Monetary sensitivity
 Strong
@@ -356,7 +357,7 @@ Uncertain
 Default cycle behaviour
 Under-researched
 
-6️⃣ Identified Research Gaps
+# 6️⃣ Identified Research Gaps
 This is critical for your PhD positioning.
 Gap 1: Default Cycle Quantification
 Limited longitudinal data on private credit default behavior across tightening cycles.
@@ -369,9 +370,8 @@ Opacity limits accurate macroprudential assessment.
 Gap 5: Secondary Market Liquidity
 Underdeveloped empirical research.
 
-7️⃣ Methodological Map of the Literature
-
-Methodology
+# 7️⃣ Methodological Map of the Literature
+ Methodology
 Strength
 Limitation
 Macro-financial modelling
@@ -387,7 +387,7 @@ Industry case studies
 Real-time insight
 Potential bias
 
-8️⃣ How This Supports Your Research
+# 8️⃣ How This Supports Your Research
 Organising the literature this way allows you to:
 Position your research methodologically
 Identify which tradition you extend
