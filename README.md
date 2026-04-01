@@ -358,16 +358,16 @@ Default cycle behaviour
 Under-researched
 
 # 6️⃣ Identified Research Gaps
-This is critical for your PhD positioning.
-Gap 1: Default Cycle Quantification
+This is critical for PhD positioning.
+### Gap 1: Default Cycle Quantification
 Limited longitudinal data on private credit default behavior across tightening cycles.
-Gap 2: Systemic Interconnectedness
+### Gap 2: Systemic Interconnectedness
 Insufficient modelling of private credit-bank cross-exposure.
-Gap 3: Covenant Evolution
+### Gap 3: Covenant Evolution
 Little empirical tracking of covenant loosening and risk implications.
-Gap 4: Transparency & Disclosure
+### Gap 4: Transparency & Disclosure
 Opacity limits accurate macroprudential assessment.
-Gap 5: Secondary Market Liquidity
+### Gap 5: Secondary Market Liquidity
 Underdeveloped empirical research.
 
 # 7️⃣ Methodological Map of the Literature
