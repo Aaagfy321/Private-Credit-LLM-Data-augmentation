@@ -32,7 +32,7 @@ Data augmentation can be simply described as any method that makes our dataset l
 
 data augmentation diagram
 
-DATA AUGMENTATION
+# DATA AUGMENTATION
 Images augmentation
 Affine transformations
 Rotation
