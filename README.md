@@ -194,7 +194,7 @@ Greater transparency demand as the sector matures (Bernstein)
 # 📈 Private Credit 2026 Outlook – Morgan Stanley (Dec 2025 / into 2026)
 Institution: Morgan Stanley
 # Methodology: Market insight + trend extrapolation
-Themes:
+## Themes:
 Private credit remains attractive in shallow rate-cut environment
 Scale, selectivity, and structural innovation key to performance
 Direct lending yields still historically high despite spread compression (Morgan Stanley)
@@ -202,13 +202,13 @@ Direct lending yields still historically high despite spread compression (Morgan
 # 📉 Private credit: Attractive risk-adjusted return potential (Invesco, March 2026)
 Institution: Invesco
 # Methodology: Investment risk-return analysis
-Insights:
+## Insights:
 Continued strong returns in senior secured and direct lending
 Growth potential in special situations credit for 2026 (Invesco)
 
 # 📊 Credit Conditions: Q1 2026 – Private Credit & Debt Markets (McDermott Will & Emery)
 Methodology: Quarterly credit trend review
-Insights:
+## Insights:
 Accelerating deal activity
 Competitive interaction with syndicated loan markets
 Variable macro influences shaping credit terms (McDermott)
@@ -220,8 +220,8 @@ Default and credit quality concerns among mid-market borrowers (KBRA)
 Record-level European fundraising and shifting geographic patterns (S&P Global)
 Pressure on liquidity and redemption conditions in some private credit vehicles (e.g., interval funds and open-ended products) — see Reuters industry data referenced earlier (Reuters)
 (Note: some market commentary suggests isolated stress rather than systemic crisis, but it’s a developing research question). (MarketWatch)
-📑 Addendum: Select 2026 Academic Research
-📄 FSL-BDP: Federated Survival Learning with Bayesian Differential Privacy for Credit Risk Modeling (Jan 2026)
+### 📑 Addendum: Select 2026 Academic Research
+### 📄 FSL-BDP: Federated Survival Learning with Bayesian Differential Privacy for Credit Risk Modeling (Jan 2026)
 Although not private credit specific, this study addresses credit risk modeling methodologies that could be adapted for private credit portfolio analytics. (arXiv)
 
 # 📌 What This Means for Your Literature Review
@@ -229,15 +229,15 @@ By organising 2026 research by methodology:
 
  Methodology
 Key 2026 Sources
-Macro-financial
+### Macro-financial
 Zou (2026), S&P Global reports
-Empirical market
+### Empirical market
 KBRA 2026 cohort study
-Regulatory
+### Regulatory
 Central bank / policy commentary
-Industry outlook
+### Industry outlook
 Bernstein, Morgan Stanley, Invesco, McDermott Will & Emery
-Credit risk modeling
+### Credit risk modeling
 FSL-BDP (2026)
 
 ========================================================================================================================================================================================
@@ -262,7 +262,6 @@ Bank balance sheet constraints drive substitution toward private credit
 Growth of non-bank financial intermediation is structurally persistent
 Contribution:
 Positions private credit within global monetary transmission mechanisms.
-
 #  Related Macro Themes
 Interest rate cycles and loan origination
 Capital regulation spillovers
@@ -289,7 +288,7 @@ Empirical confirmation of structural capital market shift.
 
 # 📊 UK Private Debt Research Report 2020
 Institution: British Business Bank
-Methodology:
+# Methodology:
 Primary survey data collection
 Regional SME financing analysis
 Lender segmentation modelling
