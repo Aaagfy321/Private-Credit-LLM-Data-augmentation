@@ -5,27 +5,26 @@ List of useful data augmentation resources. You will find here some links to mor
 Do you like it? Feel free to ⭐ ! Feel free to make a pull request!
 
 # Introduction
-## Repositories
-## Computer vision
-## Natural Language Processing
-## Audio/Speech
-## Time series
-## Graph Augmentation
-## Gene expression Augmentation
-## AutoAugment
+# Repositories
+### Computer vision
+### Natural Language Processing
+### Audio/Speech
+### Time series
+### Graph Augmentation
+### Gene expression Augmentation
+### AutoAugment
 
-#Papers
-## 2026
-## 2025
-## 2024
-## 2023
-## 2022
-## 2021
-## 2020
-## 2019
-
-# AutoAugment
-Other - challenges, workshops, tutorials, books
+# Papers
+### 2026
+### 2025
+### 2024
+### 2023
+### 2022
+### 2021
+### 2020
+### 2019
+### AutoAugment
+# Other - challenges, workshops, tutorials, books
 
 # Introduction
 Data augmentation can be simply described as any method that makes our dataset larger by making modified copies of the existing dataset. To create more images for example, we could zoom in and save the result, we could change the brightness of the image or rotate it. To get a bigger sound dataset we could try to raise or lower the pitch of the audio sample or slow down/speed up. Example data augmentation techniques are presented in the diagram below.
@@ -33,67 +32,67 @@ Data augmentation can be simply described as any method that makes our dataset l
 data augmentation diagram
 
 # DATA AUGMENTATION
-Images augmentation
-Affine transformations
-Rotation
-Scaling
-Random cropping
-Reflection
-Elastic transformations
-Contrast shift
-Brightness shift
-Blurring
-Channel shuffle
-Advanced transformations
-Random erasing
-Adding rain effects, sun flare...
-Image blending
-Neural-based transformations
-Adversarial noise
-Neural Style Transfer
-Generative Adversarial Networks
-Audio augmentation
-Noise injection
-Time shift
-Time stretching
-Random cropping
-Pitch scaling
-Dynamic range compression
-Simple gain
-Equalization
-Voice conversion (Speech)
-Natural Language Processing augmentation
-Thesaurus
-Text Generation
-Back Translation
-Word Embeddings
-Contextualized Word Embeddings
-Paraphrasing
-Text perturbation
-Time Series Data Augmentation
-Basic approaches
-Warping
-Jittering
-Perturbing
-Advanced approaches
-Embedding space
-GAN/Adversarial
-RL/Meta-Learning
-Graph Augmentation
-Node/edge dropping
-Node/edge addition (graph modification)
-Edge perturbation
-Gene expression Augmentation
-Data generation with GANs
-Mixing observations
-Random variable insertion
-Automatic Augmentation (AutoAugment)
-Other
-#Keypoints/landmarks Augmentation - usually done with image augmentation (rotation, reflection) or graph augmentation methods (node/edge dropping)
-#Spectrograms/Melspectrograms - usually done with time series data augmentation (jittering, perturbing, warping) or image augmentation (random erasing)
-If you wish to cite us, you can cite the following paper of your choice: Style transfer-based image synthesis as an efficient regularization technique in deep learning or Data augmentation for improving deep learning in image classification problem.
+# Images augmentation
+## Affine transformations
+### Rotation
+### Scaling
+### Random cropping
+### Reflection
+## Elastic transformations
+### Contrast shift
+### Brightness shift
+### Blurring
+### Channel shuffle
+# Advanced transformations
+### Random erasing
+### Adding rain effects, sun flare...
+### Image blending
+# Neural-based transformations
+### Adversarial noise
+### Neural Style Transfer
+### Generative Adversarial Networks
+# Audio augmentation
+### Noise injection
+### Time shift
+### Time stretching
+### Random cropping
+### Pitch scaling
+### Dynamic range compression
+### Simple gain
+### Equalization
+### Voice conversion (Speech)
+# Natural Language Processing augmentation
+### Thesaurus
+### Text Generation
+### Back Translation
+### Word Embeddings
+### Contextualized Word Embeddings
+### Paraphrasing
+### Text perturbation
+# Time Series Data Augmentation
+## Basic approaches
+### Warping
+### Jittering
+### Perturbing
+## Advanced approaches
+### Embedding space
+### GAN/Adversarial
+### RL/Meta-Learning
+# Graph Augmentation
+### Node/edge dropping
+### Node/edge addition (graph modification)
+### Edge perturbation
+# Gene expression Augmentation
+### Data generation with GANs
+### Mixing observations
+### Random variable insertion
+# Automatic Augmentation (AutoAugment)
+### Other
+#### Keypoints/landmarks Augmentation - usually done with image augmentation (rotation, reflection) or graph augmentation methods (node/edge dropping)
+#### Spectrograms/Melspectrograms - usually done with time series data augmentation (jittering, perturbing, warping) or image augmentation (random erasing)
+##### If you wish to cite us, you can cite the following paper of your choice: Style transfer-based image synthesis as an efficient regularization technique in deep learning or Data augmentation for improving deep learning in image classification problem.
 
-Star History Chart
+# Star History Chart
 ## Star History
 
 <a href="https://www.star-history.com/?repos=AgaMiko%2Fdata-augmentation-review&type=date&legend=top-left">
