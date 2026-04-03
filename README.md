@@ -1,96 +1,318 @@
-# Private-Credit-LLM-Data-augmentation
-Private Credit &amp; Venture Capital Atlas
-List of useful data augmentation resources. You will find here some links to more or less popular github repos ✨, libraries, papers 📚 and other information.
+Private Credit & LLM Data Augmentation Atlas
 
-Do you like it? Feel free to ⭐ ! Feel free to make a pull request!
+A curated research and resource repository covering:
 
-# Introduction
-# Repositories
-### Computer vision
-### Natural Language Processing
-### Audio/Speech
-### Time series
-### Graph Augmentation
-### Gene expression Augmentation
-### AutoAugment
+📊 Private Credit Research (Macro, Empirical, Regulatory, Industry)
+🤖 Data Augmentation (Computer Vision, NLP, Audio, Time Series, Graph, Gene Expression)
+📚 Academic Papers (2019–2026)
+🧠 Methodological Research Gaps
+🛠 Useful Libraries & GitHub Repositories
 
-# Papers
-## 2026
-## 2025
-## 2024
-## 2023
-## 2022
-## 2021
-## 2020
-## 2019
-## AutoAugment
-# Other - challenges, workshops, tutorials, books
+If you find this repository useful, feel free to ⭐ star it and submit a pull request!
 
-# Introduction
-Data augmentation can be simply described as any method that makes our dataset larger by making modified copies of the existing dataset. To create more images for example, we could zoom in and save the result, we could change the brightness of the image or rotate it. To get a bigger sound dataset we could try to raise or lower the pitch of the audio sample or slow down/speed up. Example data augmentation techniques are presented in the diagram below.
+📖 Table of Contents
+Introduction
+Data Augmentation Overview
+Repositories
+Papers by Year
+Private Credit Research Repository (2026 Update)
+Cross-Methodological Themes
+Research Gaps
+Methodological Map
+Star History
+Introduction
 
-data augmentation diagram
+Data augmentation refers to techniques used to artificially increase dataset size by creating modified versions of existing data.
 
-# DATA AUGMENTATION
-# Images augmentation
-## Affine transformations
-### Rotation
-### Scaling
-### Random cropping
-### Reflection
-## Elastic transformations
-### Contrast shift
-### Brightness shift
-### Blurring
-### Channel shuffle
-# Advanced transformations
-### Random erasing
-### Adding rain effects, sun flare...
-### Image blending
-# Neural-based transformations
-### Adversarial noise
-### Neural Style Transfer
-### Generative Adversarial Networks
-# Audio augmentation
-### Noise injection
-### Time shift
-### Time stretching
-### Random cropping
-### Pitch scaling
-### Dynamic range compression
-### Simple gain
-### Equalization
-### Voice conversion (Speech)
-# Natural Language Processing augmentation
-### Thesaurus
-### Text Generation
-### Back Translation
-### Word Embeddings
-### Contextualized Word Embeddings
-### Paraphrasing
-### Text perturbation
-# Time Series Data Augmentation
-## Basic approaches
-### Warping
-### Jittering
-### Perturbing
-## Advanced approaches
-### Embedding space
-### GAN/Adversarial
-### RL/Meta-Learning
-# Graph Augmentation
-### Node/edge dropping
-### Node/edge addition (graph modification)
-### Edge perturbation
-# Gene expression Augmentation
-### Data generation with GANs
-### Mixing observations
-### Random variable insertion
-# Automatic Augmentation (AutoAugment)
-### Other
-#### Keypoints/landmarks Augmentation - usually done with image augmentation (rotation, reflection) or graph augmentation methods (node/edge dropping)
-#### Spectrograms/Melspectrograms - usually done with time series data augmentation (jittering, perturbing, warping) or image augmentation (random erasing)
-##### If you wish to cite us, you can cite the following paper of your choice: Style transfer-based image synthesis as an efficient regularization technique in deep learning or Data augmentation for improving deep learning in image classification problem.
+Examples:
+
+Images → rotation, brightness shift, cropping
+Audio → pitch scaling, time stretching
+Text → paraphrasing, back translation
+Time series → jittering, warping
+
+It improves:
+
+Model generalisation
+Robustness
+Regularisation
+Performance in low-data environments
+DATA AUGMENTATION
+🖼 Image Augmentation
+Affine Transformations
+Rotation
+Scaling
+Random Cropping
+Reflection
+Elastic Transformations
+Contrast Shift
+Brightness Shift
+Blurring
+Channel Shuffle
+Advanced Transformations
+Random Erasing
+Weather Effects (rain, sun flare)
+Image Blending
+Neural-Based Transformations
+Adversarial Noise
+Neural Style Transfer
+Generative Adversarial Networks (GANs)
+🔊 Audio Augmentation
+Noise Injection
+Time Shift
+Time Stretching
+Random Cropping
+Pitch Scaling
+Dynamic Range Compression
+Gain Adjustment
+Equalization
+Voice Conversion
+📝 NLP Augmentation
+Thesaurus Substitution
+Text Generation
+Back Translation
+Word Embeddings
+Contextualized Embeddings
+Paraphrasing
+Text Perturbation
+⏱ Time Series Augmentation
+Basic Approaches
+Warping
+Jittering
+Perturbing
+Advanced Approaches
+Embedding-Space Augmentation
+GAN / Adversarial
+Reinforcement Learning / Meta-Learning
+🧩 Graph Augmentation
+Node/Edge Dropping
+Node/Edge Addition
+Edge Perturbation
+🧬 Gene Expression Augmentation
+GAN-based Data Generation
+Observation Mixing
+Random Variable Insertion
+🤖 Automatic Augmentation (AutoAugment)
+Policy-based augmentation learning
+Neural search for transformation policies
+Repositories
+🖼 Computer Vision
+albumentations
+
+Python library offering 30+ high-performance augmentation techniques.
+Supports classification, object detection, segmentation, keypoints.
+
+imgaug
+
+Widely used image augmentation framework with affine, perspective, noise, dropout, and color transformations.
+
+🧠 Natural Language Processing
+
+(To be expanded)
+
+🔊 Audio / Speech
+
+(To be expanded)
+
+⏱ Time Series
+
+(To be expanded)
+
+🧩 Graph Augmentation
+
+(To be expanded)
+
+🧬 Gene Expression
+
+(To be expanded)
+
+Papers by Year
+2026
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+AutoAugment
+2026
+
+(Add 2026 papers here)
+
+2025
+
+(Add 2025 papers here)
+
+2024
+
+(Add 2024 papers here)
+
+2023
+
+(Add 2023 papers here)
+
+2022
+
+(Add 2022 papers here)
+
+2021
+
+(Add 2021 papers here)
+
+2020
+
+(Add 2020 papers here)
+
+2019
+
+(Add 2019 papers here)
+
+AutoAugment Papers
+
+(Add AutoAugment-related papers here)
+
+🔎 Why this works
+
+GitHub automatically generates anchor IDs from headings.
+For example:
+
+# 2026
+
+becomes:
+
+#2026
+
+And:
+
+# AutoAugment Papers
+
+becomes:
+
+#autoaugment-papers
+AutoAugment
+📊 Private Credit Research Repository (2026 Update)
+
+Organised by Research Methodology.
+
+1️⃣ Macro-Financial Research
+
+Private Credit Markets: Theory, Evidence, and Emerging Frontiers (2026)
+
+Integrated theoretical framework
+Delegated monitoring & incomplete contracting
+AUM growth: ~$158B (2010) → ~$2T (mid-2024)
+Raises systemic risk & opacity questions
+
+S&P Global (2026)
+
+2025 commitments: $224.25B (+3.2%)
+Direct lending dominant
+Europe record fundraising
+
+Bank for International Settlements (2025)
+
+Cross-country macro panel data
+Private credit sensitive to policy rates
+Regulatory substitution effects
+2️⃣ Empirical Market Analysis
+
+KBRA (2026)
+
+71% of at-risk loans deteriorated
+~25 of 79 borrowers defaulted/restructured
+
+British Business Bank (2020)
+
+SME reliance on private debt
+Regional disparities
+3️⃣ Regulatory & Policy Research
+
+Key Questions:
+
+Did Basel III accelerate private credit growth?
+Does regulatory arbitrage increase opacity?
+How should non-bank lenders be supervised?
+
+Themes:
+
+Capital requirements
+Liquidity coverage
+Supervisory perimeter gaps
+4️⃣ Industry & Practitioner Analysis
+
+Bernstein (2026)
+
+Market maturation
+Performance dispersion
+Transparency demands
+
+Morgan Stanley (2026 Outlook)
+
+Direct lending yields remain attractive
+Structural innovation key
+
+Invesco (2026)
+
+Strong risk-adjusted returns
+Growth in special situations credit
+
+McDermott Will & Emery (Q1 2026)
+
+Accelerating deal activity
+Competitive loan market dynamics
+Cross-Methodological Themes
+Research Dimension	Evidence Strength
+Monetary sensitivity	Strong
+Regulatory substitution	Strong
+SME financing gap	Strong
+Transparency risk	Moderate
+Systemic contagion risk	Uncertain
+Default cycle behaviour	Under-researched
+Identified Research Gaps
+1. Default Cycle Quantification
+
+Limited longitudinal tightening-cycle data.
+
+2. Systemic Interconnectedness
+
+Insufficient modelling of private credit-bank cross-exposure.
+
+3. Covenant Evolution
+
+Lack of empirical tracking.
+
+4. Transparency & Disclosure
+
+Macroprudential assessment limited by opacity.
+
+5. Secondary Market Liquidity
+
+Underdeveloped empirical evidence.
+
+Methodological Map of the Literature
+Methodology	Strength	Limitation
+Macro-financial modelling	Captures systemic drivers	Limited granular data
+Empirical market analysis	Micro-level evidence	Often region-specific
+Regulatory analysis	Strong policy framing	Limited performance data
+Industry case studies	Real-time insight	Potential bias
+How This Supports Research Positioning
+
+This structure allows researchers to:
+
+Position work methodologically
+Extend existing traditions
+Identify contribution gaps
+
+Possible directions:
+
+Macro-econometric
+Micro-empirical
+Regulatory impact
+Risk-cycle modelling
+Network/systemic modelling
+⭐ Star History
+<a href="https://www.star-history.com/?repos=AgaMiko%2Fdata-augmentation-review&type=date&legend=top-left"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=AgaMiko/data-augmentation-review&type=date&theme=dark&legend=bottom-right" /> <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=AgaMiko/data-augmentation-review&type=date&legend=bottom-right" /> <img alt="Star History Chart" src="https://api.star-history.com/image?repos=AgaMiko/data-augmentation-review&type=date&legend=bottom-right" /> </picture> </a>
 
 # Star History Chart
 ## Star History
