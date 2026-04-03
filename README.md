@@ -15,15 +15,15 @@ Do you like it? Feel free to ⭐ ! Feel free to make a pull request!
 ### AutoAugment
 
 # Papers
-### 2026
-### 2025
-### 2024
-### 2023
-### 2022
-### 2021
-### 2020
-### 2019
-### AutoAugment
+## 2026
+## 2025
+## 2024
+## 2023
+## 2022
+## 2021
+## 2020
+## 2019
+## AutoAugment
 # Other - challenges, workshops, tutorials, books
 
 # Introduction
