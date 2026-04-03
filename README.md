@@ -3,30 +3,36 @@
 
 A curated research and resource repository covering:
 
-- 📊 Private Credit Research (Macro, Empirical, Regulatory, Industry)
-- 🤖 Data Augmentation (Computer Vision, NLP, Audio, Time Series, Graph, Gene Expression)
-- 📚 Academic Papers (2019–2026)
-- 🧠 Methodological Research Gaps
-- 🛠 Useful Libraries & GitHub Repositories
+-  Private Credit Research (Macro, Empirical, Regulatory, Industry)
+-  Data Augmentation (Computer Vision, NLP, Audio, Time Series, Graph, Gene Expression)
+-  Academic Papers (2019–2026)
+-  Methodological Research Gaps
+-  Useful Libraries & GitHub Repositories
 
 If you find this repository useful, feel free to ⭐ star it and submit a pull request!
 
----
-
-# 📖 Table of Contents
-
-- Introduction
-- Data Augmentation Overview
-- Repositories
-- Papers by Year
-- Private Credit Research Repository (2026 Update)
-- Cross-Methodological Themes
-- Research Gaps
-- Methodological Map
-- Star History
-
----
-
+----
+* [Introduction](README.md#Introduction)
+* [Repositories](README.md#Repositories)
+	* [Methodological Map](README.md#Computer-vision)
+	* [Natural Language Processing](README.md#Natural-Language-Processing)
+	* [Papers by Year](README.md#Audio)
+	* [Cross-Methodological Themes](README.md#Time-series)
+	* [Graph Augmentation](README.md#Graph-Augmentation)
+	* [Research Gaps](README.md#Gene-expression-Augmentation)
+	* [Star History](README.md#AutoAugment)
+* [Papers](papers.md)
+ 	* [2026](papers.md#2026)
+	* [2025](papers.md#2025)
+	* [2024](papers.md#2024)
+	* [2023](papers.md#2023)
+	* [2022](papers.md#2022)
+	* [2021](papers.md#2021)
+	* [2020](papers.md#2020)
+	* [2019](papers.md#2019)
+	* [AutoAugment](papers.md#autoaugment)
+* [Other - challenges, workshops, tutorials, books](README.md#Other)
+----
 # Introduction
 
 Data augmentation refers to techniques used to artificially increase dataset size by creating modified versions of existing data.
