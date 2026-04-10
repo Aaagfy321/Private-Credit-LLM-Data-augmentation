@@ -401,4 +401,33 @@ https://doi.org/10.1016/j.jfi.2016.11.001)
 
 # AutoAugment Papers
 
-(Add AutoAugment-related papers here)
+## AutoAugment
+Automatic Data Augmentation is a family of algorithms that searches for the policy of augmenting the dataset for solving the selected task.
+
+Github repositories:
+* [Text AutoAugment (TAA)](https://github.com/lancopku/text-autoaugment) ![](https://img.shields.io/github/stars/lancopku/text-autoaugment.svg?style=social)
+* [Official Fast AutoAugment implementation in PyTorch](https://github.com/kakaobrain/fast-autoaugment) ![](https://img.shields.io/github/stars/kakaobrain/fast-autoaugment.svg?style=social)
+* [AutoCLINT - Automatic Computationally LIght Network Transfer (A specially designed light version of Fast AutoAugment is implemented to adapt to various tasks under limited resources)](https://github.com/kakaobrain/autoclint) ![](https://img.shields.io/github/stars/kakaobrain/autoclint.svg?style=social)
+* [Population Based Augmentation (PBA)](https://github.com/arcelien/pba) ![](https://img.shields.io/github/stars/arcelien/pba.svg?style=social)
+* [AutoAugment: Learning Augmentation Policies from Data (Keras and Tensorflow)](https://github.com/hongdayu/autoaugment) ![](https://img.shields.io/github/stars/hongdayu/autoaugment.svg?style=social)
+* [AutoAugment: Learning Augmentation Policies from Data (PyTorch)](https://github.com/DeepVoltaire/AutoAugment) ![](https://img.shields.io/github/stars/DeepVoltaire/AutoAugment.svg?style=social)
+* [AutoAugment: Learning Augmentation Policies from Data (PyTorch, another implementation)](https://github.com/4uiiurz1/pytorch-auto-augment) ![](https://img.shields.io/github/stars/4uiiurz1/pytorch-auto-augment.svg?style=social)
+
+
+# Other
+## Challenges
+* [AutoDL 2019 (NeurIPS AutoDL challenges - includes AutoAugment)](https://autodl.chalearn.org/) - Machine Learning and in particular Deep Learning has achieved considerable successes in recent years and an ever-growing number of disciplines rely on it. However, this success crucially relies on human intervention in many steps (data pre-processing, feature engineering, model selection, hyper-parameter optimization, etc.). As the complexity of these tasks is often beyond non-experts, the rapid growth of machine learning applications has created a demand for off-the-shelf or reusable methods, which can be used easily and without expert knowledge. **The objective of AutoML (Automated Machine Learning) challenges is to provide "universal learning machines" (deep learning or others), which can learn and make predictions without human intervention (blind testing).** 
+
+## Workshops
+* [Interactive Labeling and Data Augmentation for Vision
+ICCV 2021 Workshop](https://ildav-workshop.github.io/program/) - The workshop on Interactive Labeling and Data Augmentation for Vision (ILDAV) wishes to address novel ways to solve computer vision problems where large quantities of labeled image data may not be readily available. It is important that datasets of sufficient size can be quickly and cheaply acquired and labeled. More specifically, we are interested in solutions to this problem that make use of (i) few-click and interactive data annotation, where machine learning is used to enhance human annotation skill, (ii) synthetic data generation, where one uses artificially generated data to augment real datasets, and (iii) weak supervision, where auxiliary or weak signals are used instead of (or to complement) manual labels.
+
+More broadly, we aim at fostering a collaboration between academia and industry in terms of leveraging machine learning research and human-in-the-loop, interactive labeling to quickly build datasets that will enable the use of powerful deep models in all problems of computer vision.
+
+The workshop topics include (but are not limited to):
+
+* Interactive and Few-click annotation
+* Data augmentation
+* Synthetic data for training models
+* Weak supervision
+* Human-in-the-loop learning 
